@@ -19,18 +19,19 @@
 
 # Problemas identificados:
 
-1. O sistema fica lento em horários de pico ( Eficiência de Desempenho - Capacidade ) - Tempo de resposta elevado prejudica o cliente, que pode desistir da compra pelo mal funcionamento do produto.
+1. O sistema fica lento em horários de pico ( Eficiência de Desempenho - Capacidade )
 
-2. Algumas telas são confusas e pouco intuitivas ( Usabilidade - Estética de interface ) - Interface que se afasta do simples, prejudica o usuário que muitas vezes não tem familiaridade com o produto e se perde facilmente.
+2. Algumas telas são confusas e pouco intuitivas ( Usabilidade - Estética de interface ) 
 
-3. Certas buscas retornam resultados incorretos ( Adequação Funcional - Corretude funcional ) - É ideal para o aplicativo ser concreto nas informações que fornece, e a falta de busca prejudica tanto cliente, como restaurante.
+3. Certas buscas retornam resultados incorretos ( Adequação Funcional - Corretude funcional ) 
 
-4. O aplicativo apresenta falhas em determinados modelos de smartphone ( Portabilidade - Adaptabilidade) - O aplicativo para atingir seu público, deve abrangir os modelos de telefone mais utilizados pelo público-alvo. Mas também, deve levar em consideração a expansão de sistemas menores.
+4. O aplicativo apresenta falhas em determinados modelos de smartphone ( Portabilidade - Adaptabilidade) 
 
-5. Usuários encontram dificuldade para concluir ações simples ( Usabilidade - Operacionalidade) - Erro operacional grave, quando se trata de ações simples, provavelmente tem relação com o fluxo de compra, o que compremete o objetivo principal do app.
+5. Usuários encontram dificuldade para concluir ações simples ( Usabilidade - Operacionalidade) 
 
-6. Avaliações desaparecem após atualização da página ( Confiabilidade - Maturidade ) - O sistema não persiste os dados. Não mantém o comportamento correto esperado durante o uso.
-7. Há inconsistências entre a versão web e a versão mobile ( Compatibilidade - Interoperabilidade ) - Manter duas versões diferentes do mesmo aplicativo, pode ocorrer de não se conversarem entre sí. Sendo incompatíveis um com o outro.
+6. Avaliações desaparecem após atualização da página ( Confiabilidade - Maturidade ) 
+
+7. Há inconsistências entre a versão web e a versão mobile ( Compatibilidade - Interoperabilidade ) 
 
 
 
