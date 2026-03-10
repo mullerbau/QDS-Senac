@@ -13,7 +13,7 @@
 | Há inconsistências entre a versão web e a versão mobile | Compatibilidade - Interoperabilidade | Diferenças entre as versões indicam que os sistemas não estão interoperando corretamente ou não mantêm consistência entre plataformas. |
 
 
-
+---
 
 
 
