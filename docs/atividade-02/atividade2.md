@@ -164,6 +164,8 @@ A startup decidiu contratar novos profissionais. Crie anúncios de vagas.
 
 Descreva brevemente:
 
-- O que a equipe aprendeu com a atividade
-- Principais dificuldades encontradas
-- Principais melhorias propostas para a startup
+- O que a equipe aprendeu com a atividade: A equipe entendeu melhor a importância da qualidade no projeto, principalmente em startup. Também vimos que não é só uma pessoa responsável, mas sim todo mundo envolvido no desenvolvimento.
+
+- Principais dificuldades encontradas: A maior dificuldade foi definir quem cuida da qualidade, já que em startup as funções se misturam. Também foi difícil separar o papel do QA e dos desenvolvedores.
+
+- Principais melhorias propostas para a startup: Inserir um QA desde o início, usar mais testes (unitários e API) e melhorar o alinhamento entre Product Owner, QA e desenvolvedores, para evitar erros em produção.
